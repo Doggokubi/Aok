@@ -1,0 +1,15 @@
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\bin\Debug\net6.0\Wyjatki.exe
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\bin\Debug\net6.0\Wyjatki.deps.json
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\bin\Debug\net6.0\Wyjatki.runtimeconfig.json
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\bin\Debug\net6.0\Wyjatki.dll
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\bin\Debug\net6.0\Wyjatki.pdb
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\obj\Debug\net6.0\Wyjatki.csproj.AssemblyReference.cache
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\obj\Debug\net6.0\Wyjatki.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\obj\Debug\net6.0\Wyjatki.AssemblyInfoInputs.cache
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\obj\Debug\net6.0\Wyjatki.AssemblyInfo.cs
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\obj\Debug\net6.0\Wyjatki.csproj.CoreCompileInputs.cache
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\obj\Debug\net6.0\Wyjatki.dll
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\obj\Debug\net6.0\refint\Wyjatki.dll
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\obj\Debug\net6.0\Wyjatki.pdb
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\obj\Debug\net6.0\Wyjatki.genruntimeconfig.cache
+D:\Trojanowski Franciszek\Wyjatki\Wyjatki\obj\Debug\net6.0\ref\Wyjatki.dll
